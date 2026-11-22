@@ -1,0 +1,14 @@
+{
+  "params": {
+    "k": 20.0,
+    "home": 40.0,
+    "b2b": 50.0,
+    "regress": 0.4
+  },
+  "fit_seasons": [
+    2019,
+    2024
+  ],
+  "fit_log_loss": 0.62431,
+  "version": "cbad5d6dcd"
+}

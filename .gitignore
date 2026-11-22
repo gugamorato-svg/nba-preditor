@@ -1,0 +1,5 @@
+__pycache__/
+.pytest_cache/
+data/cache/
+# Dados baixados ou capturados: os scripts recriam tudo.
+data/*.csv
